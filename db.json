@@ -1,1 +1,42 @@
-a
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "telefono": "123456789"
+    },
+    {
+      "id": 2,
+      "nombre": "María García",
+      "email": "maria.garcia@example.com",
+      "telefono": "987654321"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos López",
+      "email": "carlos.lopez@example.com",
+      "telefono": "456789123"
+    }
+  ],
+  "citas": [
+    {
+      "id": 1,
+      "usuarioId": 1,
+      "fecha": "2024-10-15T10:00:00",
+      "descripcion": "Cita médica"
+    },
+    {
+      "id": 2,
+      "usuarioId": 2,
+      "fecha": "2024-10-16T14:30:00",
+      "descripcion": "Reunión de trabajo"
+    },
+    {
+      "id": 3,
+      "usuarioId": 3,
+      "fecha": "2024-10-17T09:00:00",
+      "descripcion": "Cita dental"
+    }
+  ]
+}
