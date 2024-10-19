@@ -1,6 +1,5 @@
 [
   {
-    "codigo_tramite": 1,
     "nombre_tramite": "Obtención de Cédula de Identidad",
     "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
     "requisitos": [
@@ -18,7 +17,6 @@
     "link_oficial": "https://www.registrocivil.cl"
   },
   {
-    "codigo_tramite": 2,
     "nombre_tramite": "Solicitud de Certificado de Antecedentes",
     "descripcion": "Trámite que permite obtener un certificado de antecedentes penales.",
     "requisitos": [
@@ -34,7 +32,6 @@
     "link_oficial": "https://www.registrocivil.cl"
   },
   {
-    "codigo_tramite": 3,
     "nombre_tramite": "Inscripción de Propiedad",
     "descripcion": "Proceso para inscribir una propiedad en el Registro de Propiedad del Conservador de Bienes Raíces.",
     "requisitos": [
@@ -51,3 +48,4 @@
     "link_oficial": "https://www.bienesraices.cl"
   }
 ]
+
