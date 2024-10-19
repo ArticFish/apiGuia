@@ -1,51 +1,55 @@
-[
-  {
-    "nombre_tramite": "Obtención de Cédula de Identidad",
-    "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
-    "requisitos": [
-      "Tener al menos 18 años de edad.",
-      "Presentar certificado de nacimiento (en caso de primera vez).",
-      "Pago de arancel correspondiente."
-    ],
-    "documentos_necesarios": [
-      "Certificado de nacimiento (primera vez).",
-      "Cédula de identidad anterior (si corresponde)."
-    ],
-    "lugar_tramite": "Oficinas del Registro Civil e Identificación.",
-    "plazo_estimado": "5 días hábiles.",
-    "costo": "CLP 4,270 (renovación adultos).",
-    "link_oficial": "https://www.registrocivil.cl"
-  },
-  {
-    "nombre_tramite": "Solicitud de Certificado de Antecedentes",
-    "descripcion": "Trámite que permite obtener un certificado de antecedentes penales.",
-    "requisitos": [
-      "Ser mayor de 18 años.",
-      "Cédula de identidad vigente."
-    ],
-    "documentos_necesarios": [
-      "Cédula de identidad vigente."
-    ],
-    "lugar_tramite": "Oficinas del Registro Civil o en línea.",
-    "plazo_estimado": "Inmediato si es en línea, 2 días hábiles si es presencial.",
-    "costo": "CLP 1,050.",
-    "link_oficial": "https://www.registrocivil.cl"
-  },
-  {
-    "nombre_tramite": "Inscripción de Propiedad",
-    "descripcion": "Proceso para inscribir una propiedad en el Registro de Propiedad del Conservador de Bienes Raíces.",
-    "requisitos": [
-      "Escritura pública de compraventa.",
-      "Pago de impuestos y derechos correspondientes."
-    ],
-    "documentos_necesarios": [
-      "Escritura pública de compraventa.",
-      "Formulario de inscripción."
-    ],
-    "lugar_tramite": "Conservador de Bienes Raíces de la comuna donde se encuentra el inmueble.",
-    "plazo_estimado": "15 días hábiles.",
-    "costo": "Variable según el valor de la propiedad.",
-    "link_oficial": "https://www.bienesraices.cl"
-  }
-]
-
+{
+  "tramites": [
+    {
+      "codigo_tramite": 1,
+      "nombre_tramite": "Obtención de Cédula de Identidad",
+      "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
+      "requisitos": [
+        "Tener al menos 18 años de edad.",
+        "Presentar certificado de nacimiento (en caso de primera vez).",
+        "Pago de arancel correspondiente."
+      ],
+      "documentos_necesarios": [
+        "Certificado de nacimiento (primera vez).",
+        "Cédula de identidad anterior (si corresponde)."
+      ],
+      "lugar_tramite": "Oficinas del Registro Civil e Identificación.",
+      "plazo_estimado": "5 días hábiles.",
+      "costo": "CLP 4,270 (renovación adultos).",
+      "link_oficial": "https://www.registrocivil.cl"
+    },
+    {
+      "codigo_tramite": 2,
+      "nombre_tramite": "Solicitud de Certificado de Antecedentes",
+      "descripcion": "Trámite que permite obtener un certificado de antecedentes penales.",
+      "requisitos": [
+        "Ser mayor de 18 años.",
+        "Cédula de identidad vigente."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente."
+      ],
+      "lugar_tramite": "Oficinas del Registro Civil o en línea.",
+      "plazo_estimado": "Inmediato si es en línea, 2 días hábiles si es presencial.",
+      "costo": "CLP 1,050.",
+      "link_oficial": "https://www.registrocivil.cl"
+    },
+    {
+      "codigo_tramite": 3,
+      "nombre_tramite": "Inscripción de Propiedad",
+      "descripcion": "Proceso para inscribir una propiedad en el Registro de Propiedad del Conservador de Bienes Raíces.",
+      "requisitos": [
+        "Escritura pública de compraventa.",
+        "Pago de impuestos y derechos correspondientes."
+      ],
+      "documentos_necesarios": [
+        "Escritura pública de compraventa.",
+        "Formulario de inscripción."
+      ],
+      "lugar_tramite": "Conservador de Bienes Raíces de la comuna donde se encuentra el inmueble.",
+      "plazo_estimado": "15 días hábiles.",
+      "costo": "Variable según el valor de la propiedad.",
+      "link_oficial": "https://www.bienesraices.cl"
+    }
+  ]
+}
