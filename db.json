@@ -55,7 +55,7 @@
       "link_oficial": "https://www.bienesraices.cl"
     },
     {
-      "id": 6,
+      "id": 4,
       "nombre_tramite": "Renovación de Pasaporte",
       "descripcion": "Este trámite permite renovar el pasaporte chileno para viajes internacionales.",
       "categoria": "Identidad y Documentos",
@@ -74,7 +74,7 @@
       "link_oficial": "https://www.registrocivil.cl"
     },
     {
-      "id": 7,
+      "id": 5,
       "nombre_tramite": "Obtención de Certificado de Nacimiento",
       "descripcion": "Trámite para obtener un certificado oficial de nacimiento.",
       "categoria": "Identidad y Documentos",
@@ -91,7 +91,7 @@
       "link_oficial": "https://www.registrocivil.cl"
     },
     {
-      "id": 8,
+      "id": 6,
       "nombre_tramite": "Cambio de Domicilio Electoral",
       "descripcion": "Permite actualizar la dirección de votación en el Registro Electoral.",
       "categoria": "Participación Ciudadana",
@@ -108,7 +108,7 @@
       "link_oficial": "https://www.servel.cl"
     },
     {
-      "id": 9,
+      "id": 7,
       "nombre_tramite": "Solicitud de Subsidio Habitacional",
       "descripcion": "Permite postular a un subsidio del estado para la compra de una vivienda.",
       "categoria": "Vivienda",
@@ -128,7 +128,7 @@
       "link_oficial": "https://www.minvu.cl"
     },
     {
-      "id": 10,
+      "id": 8,
       "nombre_tramite": "Obtención de Clave Única",
       "descripcion": "Permite obtener una clave personal para realizar trámites en línea en servicios del Estado.",
       "categoria": "Servicios en Línea",
