@@ -4,6 +4,7 @@
       "id": 1,
       "nombre_tramite": "Obtención de Cédula de Identidad",
       "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
+      "categoria": "Identidad y Documentos",
       "requisitos": [
         "Tener al menos 18 años de edad.",
         "Presentar certificado de nacimiento (en caso de primera vez).",
@@ -22,6 +23,7 @@
       "id": 2,
       "nombre_tramite": "Solicitud de Certificado de Antecedentes",
       "descripcion": "Trámite que permite obtener un certificado de antecedentes penales.",
+      "categoria": "Identidad y Documentos",
       "requisitos": [
         "Ser mayor de 18 años.",
         "Cédula de identidad vigente."
@@ -38,6 +40,7 @@
       "id": 3,
       "nombre_tramite": "Inscripción de Propiedad",
       "descripcion": "Proceso para inscribir una propiedad en el Registro de Propiedad del Conservador de Bienes Raíces.",
+      "categoria": "Bienes Raíces",
       "requisitos": [
         "Escritura pública de compraventa.",
         "Pago de impuestos y derechos correspondientes."
@@ -50,6 +53,135 @@
       "plazo_estimado": "15 días hábiles.",
       "costo": "Variable según el valor de la propiedad.",
       "link_oficial": "https://www.bienesraices.cl"
+    },
+    {
+      "id": 4,
+      "nombre_tramite": "Solicitud de Licencia de Conducir Clase B",
+      "descripcion": "Este trámite permite obtener una licencia de conducir para vehículos motorizados particulares.",
+      "categoria": "Transporte",
+      "requisitos": [
+        "Tener al menos 18 años de edad.",
+        "Aprobar los exámenes teóricos, prácticos y de salud.",
+        "Residencia en la comuna donde se realiza el trámite."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente.",
+        "Certificado de residencia (si aplica)."
+      ],
+      "lugar_tramite": "Dirección de Tránsito de la municipalidad correspondiente.",
+      "plazo_estimado": "Variable según la municipalidad.",
+      "costo": "CLP 25,000 a CLP 50,000 (aproximado).",
+      "link_oficial": "https://www.conaset.cl/licencias/"
+    },
+    {
+      "id": 5,
+      "nombre_tramite": "Inscripción al Registro Social de Hogares",
+      "descripcion": "Trámite necesario para ser incluido en el Registro Social de Hogares y acceder a beneficios estatales.",
+      "categoria": "Beneficios Sociales",
+      "requisitos": [
+        "Residencia en Chile.",
+        "Formulario de solicitud completado.",
+        "Documentos que acrediten composición del hogar."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente de todos los integrantes del hogar.",
+        "Comprobante de domicilio.",
+        "Certificados de ingresos (si aplica)."
+      ],
+      "lugar_tramite": "Municipalidad o en línea a través de la plataforma oficial.",
+      "plazo_estimado": "10 días hábiles.",
+      "costo": "Gratuito.",
+      "link_oficial": "https://www.registrosocial.gob.cl"
+    }
+    {
+      "id": 6,
+      "nombre_tramite": "Renovación de Pasaporte",
+      "descripcion": "Este trámite permite renovar el pasaporte chileno para viajes internacionales.",
+      "categoria": "Identidad y Documentos",
+      "requisitos": [
+        "Cédula de identidad vigente.",
+        "Pasaporte anterior (si corresponde).",
+        "Pago de arancel correspondiente."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente.",
+        "Pasaporte anterior (si aplica)."
+      ],
+      "lugar_tramite": "Oficinas del Registro Civil e Identificación.",
+      "plazo_estimado": "5 a 10 días hábiles.",
+      "costo": "CLP 89,660 (32 páginas), CLP 89,740 (64 páginas).",
+      "link_oficial": "https://www.registrocivil.cl"
+    },
+    {
+      "id": 7,
+      "nombre_tramite": "Obtención de Certificado de Nacimiento",
+      "descripcion": "Trámite para obtener un certificado oficial de nacimiento.",
+      "categoria": "Identidad y Documentos",
+      "requisitos": [
+        "Cédula de identidad vigente.",
+        "Ser la persona registrada o un familiar directo autorizado."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente."
+      ],
+      "lugar_tramite": "Oficinas del Registro Civil o en línea.",
+      "plazo_estimado": "Inmediato.",
+      "costo": "Gratuito (en línea), CLP 710 (presencial).",
+      "link_oficial": "https://www.registrocivil.cl"
+    },
+    {
+      "id": 8,
+      "nombre_tramite": "Cambio de Domicilio Electoral",
+      "descripcion": "Permite actualizar la dirección de votación en el Registro Electoral.",
+      "categoria": "Participación Ciudadana",
+      "requisitos": [
+        "Cédula de identidad vigente.",
+        "Residir en la nueva dirección que se desea registrar."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente."
+      ],
+      "lugar_tramite": "Servel o en línea a través de la plataforma oficial.",
+      "plazo_estimado": "Inmediato.",
+      "costo": "Gratuito.",
+      "link_oficial": "https://www.servel.cl"
+    },
+    {
+      "id": 9,
+      "nombre_tramite": "Solicitud de Subsidio Habitacional",
+      "descripcion": "Permite postular a un subsidio del estado para la compra de una vivienda.",
+      "categoria": "Vivienda",
+      "requisitos": [
+        "Estar inscrito en el Registro Social de Hogares.",
+        "Cumplir con el ahorro mínimo exigido.",
+        "No ser propietario de una vivienda."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente.",
+        "Comprobante de ahorro en una libreta de vivienda.",
+        "Certificado del Registro Social de Hogares."
+      ],
+      "lugar_tramite": "Municipalidad o Serviu.",
+      "plazo_estimado": "Variable según proceso de selección.",
+      "costo": "Gratuito.",
+      "link_oficial": "https://www.minvu.cl"
+    },
+    {
+      "id": 10,
+      "nombre_tramite": "Obtención de Clave Única",
+      "descripcion": "Permite obtener una clave personal para realizar trámites en línea en servicios del Estado.",
+      "categoria": "Servicios en Línea",
+      "requisitos": [
+        "Tener cédula de identidad vigente.",
+        "Ser mayor de 14 años."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente."
+      ],
+      "lugar_tramite": "Oficinas del Registro Civil o en línea (activación con videollamada).",
+      "plazo_estimado": "Inmediato.",
+      "costo": "Gratuito.",
+      "link_oficial": "https://www.claveunica.gob.cl"
     }
   ]
 }
