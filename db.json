@@ -4,7 +4,8 @@
       "id": 1,
       "nombre_tramite": "Obtención de Cédula de Identidad",
       "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
-      "categoria": "Identidad y Documentos",
+      "categoria": "Salud",
+      "tipo":"Definicion"
       "requisitos": [
         "Tener al menos 18 años de edad.",
         "Presentar certificado de nacimiento (en caso de primera vez).",
@@ -23,7 +24,8 @@
       "id": 2,
       "nombre_tramite": "Solicitud de Certificado de Antecedentes",
       "descripcion": "Trámite que permite obtener un certificado de antecedentes penales.",
-      "categoria": "Identidad y Documentos",
+      "categoria": "Vehiculo",
+      "tipo":"Tramite"
       "requisitos": [
         "Ser mayor de 18 años.",
         "Cédula de identidad vigente."
@@ -35,12 +37,13 @@
       "plazo_estimado": "Inmediato si es en línea, 2 días hábiles si es presencial.",
       "costo": "CLP 1,050.",
       "link_oficial": "https://www.registrocivil.cl"
-    },
+    }, 
     {
       "id": 3,
       "nombre_tramite": "Inscripción de Propiedad",
       "descripcion": "Proceso para inscribir una propiedad en el Registro de Propiedad del Conservador de Bienes Raíces.",
       "categoria": "Bienes Raíces",
+      "tipo":"Definicion"
       "requisitos": [
         "Escritura pública de compraventa.",
         "Pago de impuestos y derechos correspondientes."
@@ -59,6 +62,8 @@
       "nombre_tramite": "Renovación de Pasaporte",
       "descripcion": "Este trámite permite renovar el pasaporte chileno para viajes internacionales.",
       "categoria": "Identidad y Documentos",
+      "categoria": "Registro Civil",
+      "tipo":"Definicion"
       "requisitos": [
         "Cédula de identidad vigente.",
         "Pasaporte anterior (si corresponde).",
@@ -73,76 +78,5 @@
       "costo": "CLP 89,660 (32 páginas), CLP 89,740 (64 páginas).",
       "link_oficial": "https://www.registrocivil.cl"
     },
-    {
-      "id": 5,
-      "nombre_tramite": "Obtención de Certificado de Nacimiento",
-      "descripcion": "Trámite para obtener un certificado oficial de nacimiento.",
-      "categoria": "Identidad y Documentos",
-      "requisitos": [
-        "Cédula de identidad vigente.",
-        "Ser la persona registrada o un familiar directo autorizado."
-      ],
-      "documentos_necesarios": [
-        "Cédula de identidad vigente."
-      ],
-      "lugar_tramite": "Oficinas del Registro Civil o en línea.",
-      "plazo_estimado": "Inmediato.",
-      "costo": "Gratuito (en línea), CLP 710 (presencial).",
-      "link_oficial": "https://www.registrocivil.cl"
-    },
-    {
-      "id": 6,
-      "nombre_tramite": "Cambio de Domicilio Electoral",
-      "descripcion": "Permite actualizar la dirección de votación en el Registro Electoral.",
-      "categoria": "Participación Ciudadana",
-      "requisitos": [
-        "Cédula de identidad vigente.",
-        "Residir en la nueva dirección que se desea registrar."
-      ],
-      "documentos_necesarios": [
-        "Cédula de identidad vigente."
-      ],
-      "lugar_tramite": "Servel o en línea a través de la plataforma oficial.",
-      "plazo_estimado": "Inmediato.",
-      "costo": "Gratuito.",
-      "link_oficial": "https://www.servel.cl"
-    },
-    {
-      "id": 7,
-      "nombre_tramite": "Solicitud de Subsidio Habitacional",
-      "descripcion": "Permite postular a un subsidio del estado para la compra de una vivienda.",
-      "categoria": "Vivienda",
-      "requisitos": [
-        "Estar inscrito en el Registro Social de Hogares.",
-        "Cumplir con el ahorro mínimo exigido.",
-        "No ser propietario de una vivienda."
-      ],
-      "documentos_necesarios": [
-        "Cédula de identidad vigente.",
-        "Comprobante de ahorro en una libreta de vivienda.",
-        "Certificado del Registro Social de Hogares."
-      ],
-      "lugar_tramite": "Municipalidad o Serviu.",
-      "plazo_estimado": "Variable según proceso de selección.",
-      "costo": "Gratuito.",
-      "link_oficial": "https://www.minvu.cl"
-    },
-    {
-      "id": 8,
-      "nombre_tramite": "Obtención de Clave Única",
-      "descripcion": "Permite obtener una clave personal para realizar trámites en línea en servicios del Estado.",
-      "categoria": "Servicios en Línea",
-      "requisitos": [
-        "Tener cédula de identidad vigente.",
-        "Ser mayor de 14 años."
-      ],
-      "documentos_necesarios": [
-        "Cédula de identidad vigente."
-      ],
-      "lugar_tramite": "Oficinas del Registro Civil o en línea (activación con videollamada).",
-      "plazo_estimado": "Inmediato.",
-      "costo": "Gratuito.",
-      "link_oficial": "https://www.claveunica.gob.cl"
-    }
   ]
 }
