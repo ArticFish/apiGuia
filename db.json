@@ -78,19 +78,17 @@
       "link_oficial": "https://www.registrocivil.cl"
     }
   ],
-  "definiciones": [
+  "definiciones": 
     {
       "id": 1,
       "titulo": "aaaa",
       "tipo": "Registro Civil",
       "definicion": "aaaa"
-    }
-  ],
-  "a": [
+    },
+  "a": 
     {
       "id": 1,
       "titulo": "aaaa",
       "definicion": "aaaa"
     }
-  ]
 }
