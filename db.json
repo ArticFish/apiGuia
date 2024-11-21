@@ -78,5 +78,22 @@
       "costo": "CLP 89,660 (32 páginas), CLP 89,740 (64 páginas).",
       "link_oficial": "https://www.registrocivil.cl"
     }
+  ],
+  "definiciones":
+  [
+    {
+      "id" : 1,
+      "titulo": "aaaa",
+      "tipo" : "Registro Civil",
+      "definicion": "aaaa"
+    }
+  ],
+    "a":
+  [
+    {
+      "id" : 1,
+      "titulo": "aaaa",
+      "definicion": "aaaa"
+    }
   ]
 }
