@@ -78,7 +78,7 @@
       "link_oficial": "https://www.registrocivil.cl"
     }
   ],
-  "definiciones": 
+  "definiciones": [
     {
       "id": 1,
       "titulo": "aaaa",
@@ -87,14 +87,9 @@
     },
     {
       "id": 2,
-      "titulo": "aaaa",
+      "titulo": "bbbb",
       "tipo": "Salud",
-      "definicion": "aaaa"
-    },
-  "a": 
-    {
-      "id": 1,
-      "titulo": "aaaa",
-      "definicion": "aaaa"
+      "definicion": "bbbb"
     }
+  ]
 }
