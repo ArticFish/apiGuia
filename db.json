@@ -5,7 +5,7 @@
       "nombre_tramite": "Obtención de Cédula de Identidad",
       "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
       "tipo": "Salud",
-      "categoria":"Definicion",
+      "categoria": "Definicion",
       "requisitos": [
         "Tener al menos 18 años de edad.",
         "Presentar certificado de nacimiento (en caso de primera vez).",
@@ -25,7 +25,7 @@
       "nombre_tramite": "Solicitud de Certificado de Antecedentes",
       "descripcion": "Trámite que permite obtener un certificado de antecedentes penales.",
       "tipo": "Vehiculo",
-      "categoria":"Tramite",
+      "categoria": "Tramite",
       "requisitos": [
         "Ser mayor de 18 años.",
         "Cédula de identidad vigente."
@@ -37,13 +37,13 @@
       "plazo_estimado": "Inmediato si es en línea, 2 días hábiles si es presencial.",
       "costo": "CLP 1,050.",
       "link_oficial": "https://www.registrocivil.cl"
-    }, 
+    },
     {
       "id": 3,
       "nombre_tramite": "Inscripción de Propiedad",
       "descripcion": "Proceso para inscribir una propiedad en el Registro de Propiedad del Conservador de Bienes Raíces.",
       "tipo": "Bienes Raíces",
-      "categoria":"Definicion",
+      "categoria": "Definicion",
       "requisitos": [
         "Escritura pública de compraventa.",
         "Pago de impuestos y derechos correspondientes."
@@ -63,7 +63,6 @@
       "descripcion": "Este trámite permite renovar el pasaporte chileno para viajes internacionales.",
       "categoria": "Identidad y Documentos",
       "tipo": "Registro Civil",
-      "categoria":"Definicion",
       "requisitos": [
         "Cédula de identidad vigente.",
         "Pasaporte anterior (si corresponde).",
@@ -79,21 +78,19 @@
       "link_oficial": "https://www.registrocivil.cl"
     }
   ],
-  "definiciones":
-  [
+  "definiciones": [
     {
-      "id" : 1,
+      "id": 1,
       "titulo": "aaaa",
-      "tipo" : "Registro Civil",
+      "tipo": "Registro Civil",
       "definicion": "aaaa"
     }
   ],
-    "a":
-  [
+  "a": [
     {
-      "id" : 1,
+      "id": 1,
       "titulo": "aaaa",
       "definicion": "aaaa"
     }
-  ],
+  ]
 }
