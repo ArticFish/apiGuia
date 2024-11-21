@@ -4,8 +4,8 @@
       "id": 1,
       "nombre_tramite": "Obtención de Cédula de Identidad",
       "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
-      "categoria": "Salud",
-      "tipo":"Definicion",
+      "tipo": "Salud",
+      "categoria":"Definicion",
       "requisitos": [
         "Tener al menos 18 años de edad.",
         "Presentar certificado de nacimiento (en caso de primera vez).",
@@ -24,8 +24,8 @@
       "id": 2,
       "nombre_tramite": "Solicitud de Certificado de Antecedentes",
       "descripcion": "Trámite que permite obtener un certificado de antecedentes penales.",
-      "categoria": "Vehiculo",
-      "tipo":"Tramite",
+      "tipo": "Vehiculo",
+      "categoria":"Tramite",
       "requisitos": [
         "Ser mayor de 18 años.",
         "Cédula de identidad vigente."
@@ -42,8 +42,8 @@
       "id": 3,
       "nombre_tramite": "Inscripción de Propiedad",
       "descripcion": "Proceso para inscribir una propiedad en el Registro de Propiedad del Conservador de Bienes Raíces.",
-      "categoria": "Bienes Raíces",
-      "tipo":"Definicion",
+      "tipo": "Bienes Raíces",
+      "categoria":"Definicion",
       "requisitos": [
         "Escritura pública de compraventa.",
         "Pago de impuestos y derechos correspondientes."
@@ -62,8 +62,8 @@
       "nombre_tramite": "Renovación de Pasaporte",
       "descripcion": "Este trámite permite renovar el pasaporte chileno para viajes internacionales.",
       "categoria": "Identidad y Documentos",
-      "categoria": "Registro Civil",
-      "tipo":"Definicion",
+      "tipo": "Registro Civil",
+      "categoria":"Definicion",
       "requisitos": [
         "Cédula de identidad vigente.",
         "Pasaporte anterior (si corresponde).",
