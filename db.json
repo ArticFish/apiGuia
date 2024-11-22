@@ -90,12 +90,6 @@
       "titulo": "bbbb",
       "tipo": "Salud",
       "definicion": "bbbb"
-    },
-    {
-      "id": 3,
-      "titulo": "aaaa",
-      "tipo": "Registro Civil",
-      "definicion": "aaaa"
     }
   ]
 }
