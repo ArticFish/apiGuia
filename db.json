@@ -2,7 +2,7 @@
   "tramites": [
     {
       "id": 1,
-      "nombre_tramite": "Obtención de Cédula de Identidad",
+      "titulo": "Obtención de Cédula de Identidad",
       "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
       "tipo": "Salud",
       "categoria": "Definicion",
@@ -22,7 +22,7 @@
     },
     {
       "id": 2,
-      "nombre_tramite": "Solicitud de Certificado de Antecedentes",
+      "titulo": "Solicitud de Certificado de Antecedentes",
       "descripcion": "Trámite que permite obtener un certificado de antecedentes penales.",
       "tipo": "Vehiculo",
       "categoria": "Tramite",
@@ -40,7 +40,7 @@
     },
     {
       "id": 3,
-      "nombre_tramite": "Inscripción de Propiedad",
+      "titulo": "Inscripción de Propiedad",
       "descripcion": "Proceso para inscribir una propiedad en el Registro de Propiedad del Conservador de Bienes Raíces.",
       "tipo": "Bienes Raíces",
       "categoria": "Definicion",
@@ -59,7 +59,7 @@
     },
     {
       "id": 4,
-      "nombre_tramite": "Renovación de Pasaporte",
+      "titulo": "Renovación de Pasaporte",
       "descripcion": "Este trámite permite renovar el pasaporte chileno para viajes internacionales.",
       "categoria": "Identidad y Documentos",
       "tipo": "Registro Civil",
