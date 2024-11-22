@@ -76,6 +76,26 @@
       "plazo_estimado": "5 a 10 días hábiles.",
       "costo": "CLP 89,660 (32 páginas), CLP 89,740 (64 páginas).",
       "link_oficial": "https://www.registrocivil.cl"
+    },
+    {
+      "id": 5,
+      "titulo": "Prueba",
+      "descripcion": "Prueba",
+      "categoria": "Identidad y Documentos",
+      "tipo": "Prueba",
+      "requisitos": [
+        "Cédula de identidad vigente.",
+        "Pasaporte anterior (si corresponde).",
+        "Pago de arancel correspondiente."
+      ],
+      "documentos_necesarios": [
+        "Cédula de identidad vigente.",
+        "Pasaporte anterior (si aplica)."
+      ],
+      "lugar_tramite": "Oficinas del Registro Civil e Identificación.",
+      "plazo_estimado": "5 a 10 días hábiles.",
+      "costo": "CLP 89,660 (32 páginas), CLP 89,740 (64 páginas).",
+      "link_oficial": "https://www.registrocivil.cl"
     }
   ],
   "definiciones": [
