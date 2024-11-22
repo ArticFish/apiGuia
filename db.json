@@ -96,6 +96,46 @@
       "plazo_estimado": "5 a 10 días hábiles.",
       "costo": "CLP 89,660 (32 páginas), CLP 89,740 (64 páginas).",
       "link_oficial": "https://www.registrocivil.cl"
+    },
+    {
+      "id": 6,
+      "titulo": "Obtención de Cédula de Identidad2",
+      "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
+      "tipo": "Salud",
+      "categoria": "Definicion",
+      "requisitos": [
+        "Tener al menos 18 años de edad.",
+        "Presentar certificado de nacimiento (en caso de primera vez).",
+        "Pago de arancel correspondiente."
+      ],
+      "documentos_necesarios": [
+        "Certificado de nacimiento (primera vez).",
+        "Cédula de identidad anterior (si corresponde)."
+      ],
+      "lugar_tramite": "Oficinas del Registro Civil e Identificación.",
+      "plazo_estimado": "5 días hábiles.",
+      "costo": "CLP 4,270 (renovación adultos).",
+      "link_oficial": "https://www.registrocivil.cl"
+    },
+    {
+      "id": 7,
+      "titulo": "Obtención de Cédula de Identidad3",
+      "descripcion": "Este trámite permite obtener o renovar la cédula de identidad para ciudadanos chilenos y extranjeros.",
+      "tipo": "Salud",
+      "categoria": "Definicion",
+      "requisitos": [
+        "Tener al menos 18 años de edad.",
+        "Presentar certificado de nacimiento (en caso de primera vez).",
+        "Pago de arancel correspondiente."
+      ],
+      "documentos_necesarios": [
+        "Certificado de nacimiento (primera vez).",
+        "Cédula de identidad anterior (si corresponde)."
+      ],
+      "lugar_tramite": "Oficinas del Registro Civil e Identificación.",
+      "plazo_estimado": "5 días hábiles.",
+      "costo": "CLP 4,270 (renovación adultos).",
+      "link_oficial": "https://www.registrocivil.cl"
     }
   ],
   "definiciones": [
@@ -113,6 +153,18 @@
     },
     {
       "id": 3,
+      "titulo": "cccc",
+      "tipo": "Vehiculo",
+      "definicion": "cccc"
+    },
+    {
+      "id": 4,
+      "titulo": "cccc",
+      "tipo": "Registro Civil",
+      "definicion": "cccc"
+    },
+    {
+      "id": 5,
       "titulo": "cccc",
       "tipo": "Registro Civil",
       "definicion": "cccc"
