@@ -136,7 +136,200 @@
       "plazo_estimado": "5 días hábiles.",
       "costo": "CLP 4,270 (renovación adultos).",
       "link_oficial": "https://www.registrocivil.cl"
-    }
+    },
+    {
+    "id": 8,
+    "nombre_tramite": "Obtención de Licencia de Conducir",
+    "descripcion": "Este trámite permite obtener la licencia de conducir para vehículos motorizados, como automóviles, motos, entre otros.",
+    "categoria": "Vehículo",
+    "tipo": "Definición",
+    "requisitos": [
+      "Tener al menos 18 años de edad.",
+      "Aprobar el examen teórico y práctico de conducción.",
+      "Presentar certificado de aptitud física y psíquica."
+    ],
+    "documentos_necesarios": [
+      "Cédula de identidad.",
+      "Certificado de aptitud física y psíquica.",
+      "Comprobante de aprobación de examen teórico y práctico."
+    ],
+    "lugar_tramite": "Departamento de Tránsito de la Municipalidad correspondiente.",
+    "plazo_estimado": "7 a 10 días hábiles.",
+    "costo": "Desde CLP 15,000 dependiendo del tipo de licencia.",
+    "link_oficial": "https://www.chileatiende.gob.cl/fichas/20592-licencias-de-conducir"
+  },
+  {
+  "id": 9,
+  "nombre_tramite": "Obtención de Pasaporte",
+  "descripcion": "Este trámite permite obtener un pasaporte chileno para poder viajar al extranjero.",
+  "categoria": "Registro civil",
+  "tipo": "Definición",
+  "requisitos": [
+    "Ser ciudadano/a chileno/a.",
+    "Presentar cédula de identidad vigente."
+  ],
+  "documentos_necesarios": [
+    "Cédula de identidad vigente."
+  ],
+  "lugar_tramite": "Oficinas del Registro Civil e Identificación.",
+  "plazo_estimado": "10 a 15 días hábiles.",
+  "costo": "CLP 89,000 aproximadamente.",
+  "link_oficial": "https://www.registrocivil.cl"
+  },
+  {
+  "id": 9,
+  "nombre_tramite": "Obtención de Pasaporte",
+  "descripcion": "Este trámite permite obtener un pasaporte chileno para poder viajar al extranjero.",
+  "categoria": "Registro civil",
+  "tipo": "Definición",
+  "requisitos": [
+    "Ser ciudadano/a chileno/a.",
+    "Presentar cédula de identidad vigente."
+  ],
+  "documentos_necesarios": [
+    "Cédula de identidad vigente."
+  ],
+  "lugar_tramite": "Oficinas del Registro Civil e Identificación.",
+  "plazo_estimado": "10 a 15 días hábiles.",
+  "costo": "CLP 89,000 aproximadamente.",
+  "link_oficial": "https://www.registrocivil.cl"
+  },
+  {
+  "id": 10,
+  "nombre_tramite": "Apertura de Cuenta de Ahorro Asociada a Cuenta RUT",
+  "descripcion": "Este trámite permite a los usuarios de Cuenta RUT abrir una cuenta de ahorro en el BancoEstado, asociada a su cuenta principal.",
+  "categoria": "Finanzas",
+  "tipo": "Definición",
+  "requisitos": [
+    "Ser mayor de 18 años.",
+    "Tener una Cuenta RUT activa en BancoEstado.",
+    "Cédula de identidad vigente."
+  ],
+  "documentos_necesarios": [
+    "Cédula de identidad vigente."
+  ],
+  "lugar_tramite": "Sucursales del BancoEstado o a través de su plataforma digital (Banca en Línea).",
+  "plazo_estimado": "Inmediato al realizarlo en línea; hasta 1 día hábil en sucursal.",
+  "costo": "Gratuito para la apertura (puede incluir costos de mantención según las condiciones del BancoEstado).",
+  "link_oficial": "https://www.bancoestado.cl"
+  },
+  {
+  "id": 10,
+  "nombre_tramite": "Apertura de Cuenta de Ahorro Asociada a Cuenta RUT",
+  "descripcion": "Este trámite permite a los usuarios de Cuenta RUT abrir una cuenta de ahorro en el BancoEstado, asociada a su cuenta principal.",
+  "categoria": "Finanzas",
+  "tipo": "Definición",
+  "requisitos": [
+    "Ser mayor de 18 años.",
+    "Tener una Cuenta RUT activa en BancoEstado.",
+    "Cédula de identidad vigente."
+  ],
+  "documentos_necesarios": [
+    "Cédula de identidad vigente."
+  ],
+  "lugar_tramite": "Sucursales del BancoEstado o a través de su plataforma digital (Banca en Línea).",
+  "plazo_estimado": "Inmediato al realizarlo en línea; hasta 1 día hábil en sucursal.",
+  "costo": "Gratuito para la apertura (puede incluir costos de mantención según las condiciones del BancoEstado).",
+  "link_oficial": "https://www.bancoestado.cl"
+  },
+  {
+  "id": 11,
+  "nombre_tramite": "Solicitud de Tarjeta de Crédito",
+  "descripcion": "Este trámite permite obtener una tarjeta de crédito emitida por una institución financiera, otorgando acceso a un cupo de crédito para realizar compras o pagos.",
+  "categoria": "Finanzas",
+  "tipo": "Definición",
+  "requisitos": [
+    "Ser mayor de 18 años.",
+    "Tener cédula de identidad vigente.",
+    "Acreditar ingresos estables.",
+    "Tener un historial financiero favorable (dependiendo de la institución)."
+  ],
+  "documentos_necesarios": [
+    "Cédula de identidad vigente.",
+    "Comprobante de ingresos (liquidaciones de sueldo, boletas de honorarios, o declaración de renta).",
+    "Comprobante de domicilio (boleta de servicios básicos, contrato de arriendo, etc.)."
+  ],
+  "lugar_tramite": "Sucursales de bancos, instituciones financieras, o a través de sus plataformas digitales.",
+  "plazo_estimado": "3 a 10 días hábiles (según la evaluación crediticia).",
+  "costo": "Gratuito para la solicitud (puede incluir costos de mantención mensual o anual dependiendo de la tarjeta).",
+  "link_oficial": "https://www.bancoestado.cl"
+  },
+  {
+  "id": 12,
+  "nombre_tramite": "Afiliación a FONASA",
+  "descripcion": "Permite inscribirse en el Fondo Nacional de Salud para acceder a servicios de salud pública.",
+  "categoria": "Salud",
+  "tipo": "Definición",
+  "requisitos": [
+    "Tener cédula de identidad vigente.",
+    "No estar afiliado a una Isapre."
+  ],
+  "documentos_necesarios": [
+    "Cédula de identidad."
+  ],
+  "lugar_tramite": "Oficinas de FONASA o en línea.",
+  "plazo_estimado": "Inmediato al realizar el trámite.",
+  "costo": "Gratuito.",
+  "link_oficial": "https://www.fonasa.cl/sites/fonasa/beneficiarios/tramites/afiliate"
+  },
+  {
+  "id": 13,
+  "nombre_tramite": "Afiliación a una Isapre",
+  "descripcion": "Permite inscribirse en una Institución de Salud Previsional (Isapre) para acceder a planes de salud privados.",
+  "categoria": "Salud",
+  "tipo": "Definición",
+  "requisitos": [
+    "Tener contrato de trabajo o declaración de ingresos.",
+    "Tener cédula de identidad."
+  ],
+  "documentos_necesarios": [
+    "Cédula de identidad.",
+    "Certificado de ingresos.",
+    "Comprobante de domicilio."
+  ],
+  "lugar_tramite": "Oficinas de la Isapre correspondiente.",
+  "plazo_estimado": "3 a 5 días hábiles.",
+  "costo": "Variable según el plan.",
+  "link_oficial": "https://www.chileatiende.gob.cl/fichas/3505-certificado-de-afiliacion-al-sistema-de-isapres"
+  },
+  {
+  "id": 14,
+  "nombre_tramite": "Solicitud de Licencia Médica",
+  "descripcion": "Permite solicitar autorización para ausentarse del trabajo debido a razones de salud.",
+  "categoria": "Salud",
+  "tipo": "Definición",
+  "requisitos": [
+    "Contar con diagnóstico médico firmado por un profesional.",
+    "Presentar licencia médica al empleador o institución de salud."
+  ],
+  "documentos_necesarios": [
+    "Licencia médica emitida por un médico.",
+    "Cédula de identidad."
+  ],
+  "lugar_tramite": "Sistema de salud (FONASA, Isapre o Mutualidades).",
+  "plazo_estimado": "5 a 7 días hábiles para la evaluación.",
+  "costo": "Gratuito.",
+  "link_oficial": "https://www.fonasa.cl"
+  },
+  {
+  "id": 15,
+  "nombre_tramite": "Inscripción en un CESFAM",
+  "descripcion": "Permite registrarse en un CESFAM para recibir atención médica en el sistema público de salud.",
+  "categoria": "Salud",
+  "tipo": "Definición",
+  "requisitos": [
+    "Tener cédula de identidad vigente.",
+    "Presentar comprobante de domicilio."
+  ],
+  "documentos_necesarios": [
+    "Cédula de identidad.",
+    "Comprobante de domicilio."
+  ],
+  "lugar_tramite": "CESFAM correspondiente al domicilio.",
+  "plazo_estimado": "1 a 2 días hábiles.",
+  "costo": "Gratuito.",
+  "link_oficial": "https://saludresponde.minsal.cl/consultorios/"
+  }
   ],
   "definiciones": [
     {
